@@ -92,7 +92,7 @@ function AboutMe() {
               <li class="mr-5 text-xs shrink-0">
                 <a
                   class="block hover:text-orange"
-                  href="https://github.com/bchiang7"
+                  href="https://github.com/Arteely"
                   target="_blank"
                   rel="noreferrer noopener"
                   aria-label="GitHub (opens in a new tab)"
@@ -113,7 +113,7 @@ function AboutMe() {
               <li class="mr-5 text-xs shrink-0">
                 <a
                   class="block hover:text-orange"
-                  href="https://www.linkedin.com/in/bchiang7/"
+                  href="https://www.linkedin.com/in/artem-artemyev-9439b8129/"
                   target="_blank"
                   rel="noreferrer noopener"
                   aria-label="LinkedIn (opens in a new tab)"
@@ -134,7 +134,7 @@ function AboutMe() {
               <li class="mr-5 text-xs shrink-0">
                 <a
                   class="block hover:text-orange"
-                  href="https://instagram.com/bchiang7"
+                  href="https://www.instagram.com/artm.yv/"
                   target="_blank"
                   rel="noreferrer noopener"
                   aria-label="Instagram (opens in a new tab)"

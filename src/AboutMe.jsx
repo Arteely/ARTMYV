@@ -44,8 +44,7 @@ function AboutMe() {
                 Graphic Designer - Front End Developer
               </h2>
               <p className="mt-4 max-w-xs tracking-wide leading-normal text-black font-light">
-                I build pixel-perfect, engaging, and accessible digital
-                experiences.
+                I like working on unique projects and build cool stuff.
               </p>
             </div>
             <nav class="nav hidden lg:block" aria-label="In-page jump links">
@@ -79,7 +78,7 @@ function AboutMe() {
                   </a>
                 </li>
                 <li>
-                  <a class="group flex items-center py-3" href="#projects">
+                  <a class="group flex items-center py-3 hidden" href="#projects">
                     <span class="nav-indicator mr-4 h-px w-8 bg-black transition-all group-hover:w-16 group-hover:bg-orange group-focus-visible:w-16 group-focus-visible:bg-orange motion-reduce:transition-none"></span>
                     <span class="nav-text text-xs font-bold uppercase tracking-widest text-black group-hover:text-orange group-focus-visible:text-orange">
                       Projects
@@ -196,23 +195,23 @@ function AboutMe() {
                       class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-text font-header sm:col-span-2"
                       aria-label="2024 to Present"
                     >
-                      2024 — Present
+                      2021 — Present
                     </header>
                     <div class="z-10 sm:col-span-6">
                       <h3 class="font-medium font-header leading-snug text-white">
                         <div>
                           <a
-                            class="inline-flex items-baseline font-medium leading-tight text-white hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-                            href="https://www.klaviyo.com"
+                            class="inline-flex items-baseline font-medium leading-tight text-white hover:text-orange focus-visible:text-orange  group/link text-base"
+                            href="https://www.adamoonline.com"
                             target="_blank"
                             rel="noreferrer noopener"
-                            aria-label="Senior Frontend Engineer, Accessibility at Klaviyo (opens in a new tab)"
+                            aria-label="Frontend Developer, E-Commerce Operations Specialist at ADAMO (opens in a new tab)"
                           >
                             <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                             <span>
-                              Senior Frontend Engineer, Accessibility{" "}
+                              Frontend Developer ·{" "}
                               <span class="inline-block">
-                                Klaviyo
+                                ADAMO
                                 <svg
                                   xmlns="http://www.w3.org/2000/svg"
                                   viewBox="0 0 20 20"
@@ -230,14 +229,28 @@ function AboutMe() {
                             </span>
                           </a>
                         </div>
+                        <div>
+                          <div
+                            class="text-orange lg:group-hover:text-white"
+                            aria-hidden="true"
+                          >
+                            E-Commerce Operations Specialist
+                          </div>
+                        </div>
                       </h3>
                       <p class="mt-2 text-sm leading-normal">
-                        Build and maintain critical components used to construct
-                        Klaviyo’s frontend, across the whole product. Work
-                        closely with cross-functional teams, including
-                        developers, designers, and product managers, to
-                        implement and advocate for best practices in web
-                        accessibility.
+                        Led the development and continuous improvement of the
+                        company’s e-commerce website, ensuring it met the
+                        evolving needs of the company. I was responsible for
+                        managing site performance and ensuring the accuracy and
+                        efficiency of order processing and fulfillment, which
+                        maintained a high level of customer satisfaction. I also
+                        designed and executed marketing automation workflows,
+                        including weekly email campaigns and customer win-back
+                        strategies, which significantly contributed to sustained
+                        customer engagement and sales growth. Adittionaly I
+                        collaborated closely with external marketing agencies to
+                        refine digital marketing strategies.
                       </p>
                       <ul
                         class="mt-2 flex flex-wrap"
@@ -245,22 +258,22 @@ function AboutMe() {
                       >
                         <li class="mr-1.5 mt-2">
                           <div class="flex items-center rounded-full bg-orange/25 px-3 py-1 text-xs font-medium leading-5 text-orange">
-                            JavaScript
+                            Liquid
                           </div>
                         </li>
                         <li class="mr-1.5 mt-2">
                           <div class="flex items-center rounded-full bg-orange/25 px-3 py-1 text-xs font-medium leading-5 text-orange">
-                            TypeScript
+                            Shopify
                           </div>
                         </li>
                         <li class="mr-1.5 mt-2">
                           <div class="flex items-center rounded-full bg-orange/25 px-3 py-1 text-xs font-medium leading-5 text-orange">
-                            React
+                            HTML, CSS & JS
                           </div>
                         </li>
                         <li class="mr-1.5 mt-2">
                           <div class="flex items-center rounded-full bg-orange/25 px-3 py-1 text-xs font-medium leading-5 text-orange">
-                            Storybook
+                            Klaviyo
                           </div>
                         </li>
                       </ul>
@@ -274,23 +287,23 @@ function AboutMe() {
                       class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-text font-header sm:col-span-2"
                       aria-label="2018 to 2024"
                     >
-                      2018 — 2024
+                      2017 — 2018
                     </header>
                     <div class="z-10 sm:col-span-6">
                       <h3 class="font-medium font-header leading-snug text-white">
                         <div>
                           <a
                             class="inline-flex items-baseline font-medium leading-tight text-white hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-                            href="https://upstatement.com"
+                            href="https://www.radissonhotels.com/tr-tr/oteller/park-inn-istanbul-ataturk-airport"
                             target="_blank"
                             rel="noreferrer noopener"
-                            aria-label="Lead Engineer at Upstatement (opens in a new tab)"
+                            aria-label="Digital Marketing Specialist at Park Inn (opens in a new tab)"
                           >
                             <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                             <span>
-                              Lead Engineer ·{" "}
+                              Park Inn by Radisson{" "}
                               <span class="inline-block">
-                                Upstatement
+                                Istanbul Atatürk Airport
                                 <svg
                                   xmlns="http://www.w3.org/2000/svg"
                                   viewBox="0 0 20 20"
@@ -309,21 +322,22 @@ function AboutMe() {
                           </a>
                         </div>
                         <div>
-                          <div class="text-orange lg:group-hover:text-white" aria-hidden="true">
-                            Engineer
+                          <div
+                            class="text-orange lg:group-hover:text-white"
+                            aria-hidden="true"
+                          >
+                            Digital Marketing Specialist
                           </div>
                         </div>
                       </h3>
                       <p class="mt-2 text-sm leading-normal">
-                        Build, style, and ship high-quality websites, design
-                        systems, mobile apps, and digital experiences for a
-                        diverse array of projects for clients including Harvard
-                        Business School, Everytown for Gun Safety, Pratt
-                        Institute, Koala Health, Vanderbilt University, The 19th
-                        News, and more. Provide leadership within engineering
-                        department through close collaboration, knowledge
-                        shares, and spearheading the development of internal
-                        tools.
+                        Managed the updating and oversight of social media and
+                        all web-based platforms. Created and designed graphics
+                        for upcoming events, social media updates, posters, and
+                        mailings. Handled the entry and organization of customer
+                        data for future sales or mailing campaigns. Handled the
+                        processing and organization of customer data for future sales
+                        or mailing campaigns.
                       </p>
                       <ul
                         class="mt-2 flex flex-wrap"
@@ -331,52 +345,17 @@ function AboutMe() {
                       >
                         <li class="mr-1.5 mt-2">
                           <div class="flex items-center rounded-full bg-orange/25 px-3 py-1 text-xs font-medium leading-5 text-orange">
-                            JavaScript
+                            Adobe Photoshop
                           </div>
                         </li>
                         <li class="mr-1.5 mt-2">
                           <div class="flex items-center rounded-full bg-orange/25 px-3 py-1 text-xs font-medium leading-5 text-orange">
-                            TypeScript
+                            Adobe Illustrator
                           </div>
                         </li>
                         <li class="mr-1.5 mt-2">
                           <div class="flex items-center rounded-full bg-orange/25 px-3 py-1 text-xs font-medium leading-5 text-orange">
-                            HTML &amp; SCSS
-                          </div>
-                        </li>
-                        <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-orange/25 px-3 py-1 text-xs font-medium leading-5 text-orange">
-                            React
-                          </div>
-                        </li>
-                        <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-orange/25 px-3 py-1 text-xs font-medium leading-5 text-orange">
-                            Next.js
-                          </div>
-                        </li>
-                        <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-orange/25 px-3 py-1 text-xs font-medium leading-5 text-orange">
-                            React Native
-                          </div>
-                        </li>
-                        <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-orange/25 px-3 py-1 text-xs font-medium leading-5 text-orange">
-                            WordPress
-                          </div>
-                        </li>
-                        <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-orange/25 px-3 py-1 text-xs font-medium leading-5 text-orange">
-                            Contentful
-                          </div>
-                        </li>
-                        <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-orange/25 px-3 py-1 text-xs font-medium leading-5 text-orange">
-                            Node.js
-                          </div>
-                        </li>
-                        <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-orange/25 px-3 py-1 text-xs font-medium leading-5 text-orange">
-                            PHP
+                            Klaviyo
                           </div>
                         </li>
                       </ul>
@@ -386,32 +365,39 @@ function AboutMe() {
               </ol>
               <div class="mt-12">
                 <a
-                  class="inline-flex items-baseline font-header font-medium leading-tight text-white hover:text-orange focus-visible:text-orange group/link text-base"
+                  class="inline-flex hidden items-baseline font-header font-medium leading-tight text-white hover:text-orange focus-visible:text-orange group/link text-base"
                   href="/resume.pdf"
                   target="_blank"
                   rel="noreferrer noopener"
                   aria-label="View Full Résumé (opens in a new tab)"
                 >
-                    
-                    <span class="inline-block">
+                  <span class="inline-block">
                     View Full Résumé
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewBox="0 0 20 20"
-                        fill="currentColor"
-                        class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px"
-                        aria-hidden="true"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
-                          clip-rule="evenodd"
-                        ></path>
-                      </svg>
-                    </span>
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 20 20"
+                      fill="currentColor"
+                      class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px"
+                      aria-hidden="true"
+                    >
+                      <path
+                        fill-rule="evenodd"
+                        d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
+                        clip-rule="evenodd"
+                      ></path>
+                    </svg>
+                  </span>
                 </a>
               </div>
             </div>
+          </section>
+          <section className="flex flex-col items-center text-white">
+            <p>Would you like to work together?</p>
+            <h2 className="text-2xl font-bold">
+              <span>[</span>
+              <a className="font-bold font-logo text-orange transition-all lg:text-white" href="mailto:artem@artmyv.com">ARTEM@ARTMYV.COM</a>
+              <span>]</span>
+            </h2>
           </section>
         </main>
       </div>

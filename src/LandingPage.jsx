@@ -9,7 +9,7 @@ function LandingPage() {
         <h1 className="font-logo font-bold text-5xl">
           ARTMYV<span className="text-base text-orange">©</span>
         </h1>
-        <p className="font-sans font-bold tracking-wider">GRAPHIC DESIGNER | FRONT END DEVELOPER</p>
+        <p className="font-sans font-bold tracking-wider text-center">GRAPHIC DESIGNER | FRONT END DEVELOPER</p>
         <p className="mb-6 font-light">
           FROM ISTANBUL, TURKEY
         </p>

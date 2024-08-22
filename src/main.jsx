@@ -1,10 +1,14 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import 'semantic-ui-css/semantic.min.css'
+import { StrictMode } from 'react'
+import { createRoot } from 'react-dom/client'
+import LandingPage from './LandingPage.jsx'
+import InfiniteScroll from '../components/infinitescroll'
+import AboutMe from './aboutme.jsx'
+import './index.css'
 
-import App from './App'
-
-const root = ReactDOM.createRoot(
-    document.getElementById('root')
-  );
-root.render(<App />);
+createRoot(document.getElementById('root')).render(
+  <StrictMode>
+    <LandingPage />
+    <InfiniteScroll />
+    <AboutMe />
+  </StrictMode>
+)

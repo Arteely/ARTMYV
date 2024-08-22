@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Gradient from "./Gradient";
 
 
 class AnimeGradient extends Component {

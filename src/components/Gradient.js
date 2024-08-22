@@ -868,6 +868,7 @@ class Gradient {
       .map(normalizeColor);
   }
 }
+export default Gradient;
 
 /*
  *Finally initializing the Gradient class, assigning a canvas to it and calling Gradient.connect() which initializes everything,

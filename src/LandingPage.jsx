@@ -1,4 +1,4 @@
-import AnimeGradient from "../components/AnimeGradient";
+import AnimeGradient from './components/AnimeGradient';
 
 function LandingPage() {
   return (

@@ -78,7 +78,7 @@ function AboutMe() {
                   </a>
                 </li>
                 <li>
-                  <a class="group flex items-center py-3" href="#projects">
+                  <a class="group flex items-center hidden py-3" href="#projects">
                     <span class="nav-indicator mr-4 h-px w-8 bg-black transition-all group-hover:w-16 group-hover:bg-orange group-focus-visible:w-16 group-focus-visible:bg-orange motion-reduce:transition-none"></span>
                     <span class="nav-text text-xs font-bold uppercase tracking-widest text-black group-hover:text-orange group-focus-visible:text-orange">
                       Projects

@@ -44,7 +44,8 @@ function AboutMe() {
                 Graphic Designer - Front End Developer
               </h2>
               <p className="mt-4 max-w-xs tracking-wide leading-normal text-black font-light">
-                I like working on unique projects and build cool stuff.
+                I like working on unique projects (or motorcycles) and build
+                cool stuff.
               </p>
             </div>
             <nav class="nav hidden lg:block" aria-label="In-page jump links">
@@ -78,7 +79,10 @@ function AboutMe() {
                   </a>
                 </li>
                 <li>
-                  <a class="group flex items-center hidden py-3" href="#projects">
+                  <a
+                    class="group flex items-center hidden py-3"
+                    href="#projects"
+                  >
                     <span class="nav-indicator mr-4 h-px w-8 bg-black transition-all group-hover:w-16 group-hover:bg-orange group-focus-visible:w-16 group-focus-visible:bg-orange motion-reduce:transition-none"></span>
                     <span class="nav-text text-xs font-bold uppercase tracking-widest text-black group-hover:text-orange group-focus-visible:text-orange">
                       Projects
@@ -323,13 +327,16 @@ function AboutMe() {
                         </div>
                       </h3>
                       <p class="mt-2 text-sm leading-normal">
-                        Managed the updating and oversight of social media and
-                        all web-based platforms. Created and designed graphics
-                        for upcoming events, social media updates, posters, and
-                        mailings. Handled the entry and organization of customer
-                        data for future sales or mailing campaigns. Handled the
-                        processing and organization of customer data for future sales
-                        or mailing campaigns.
+                        I have created custom graphics and animated overlays for
+                        streamers, including webcam kits, animated streaming
+                        screens, and branding assets. My work is focused on
+                        delivering visually appealing and cohesive designs that
+                        enhance the streaming experience. I have worked on
+                        multiple projects during my time as a freelance
+                        designer, ensuring timely delivery while maintaining
+                        high-quality standards, and have developed expertise in
+                        digital design tools such as Adobe Photoshop,
+                        Illustrator, and After Effects.
                       </p>
                       <ul
                         class="mt-2 flex flex-wrap"
@@ -410,8 +417,8 @@ function AboutMe() {
                         for upcoming events, social media updates, posters, and
                         mailings. Handled the entry and organization of customer
                         data for future sales or mailing campaigns. Handled the
-                        processing and organization of customer data for future sales
-                        or mailing campaigns.
+                        processing and organization of customer data for future
+                        sales or mailing campaigns.
                       </p>
                       <ul
                         class="mt-2 flex flex-wrap"
@@ -469,7 +476,12 @@ function AboutMe() {
             <p>Would you like to work together?</p>
             <h2 className="text-2xl font-bold">
               <span>[</span>
-              <a className="font-bold font-logo text-orange transition-all lg:text-white" href="mailto:artem@artmyv.com">ARTEM@ARTMYV.COM</a>
+              <a
+                className="font-bold font-logo text-orange transition-all lg:text-white"
+                href="mailto:artem@artmyv.com"
+              >
+                ARTEM@ARTMYV.COM
+              </a>
               <span>]</span>
             </h2>
           </section>

@@ -407,7 +407,7 @@ function AboutMe() {
                             class="text-orange lg:group-hover:text-white"
                             aria-hidden="true"
                           >
-                            Digital Marketing Specialist
+                            Digital Marketing Intern
                           </div>
                         </div>
                       </h3>
@@ -483,6 +483,70 @@ function AboutMe() {
               <span>]</span>
             </h2>
           </section>
+          <footer className="max-w-full flex justify-center py-8 text-sm text-text sm:pb-0 transition-all">
+            <p className=" max-w-md">
+              Designed in{" "}
+              <a
+                href="https://www.figma.com/"
+                class="font-medium text-white hover:text-orange focus-visible:text-orange"
+                target="_blank"
+                rel="noreferrer noopener"
+                aria-label="Figma (opens in a new tab)"
+              >
+                Figma{" "}
+              </a>
+              and brought to life in{" "}
+              <a
+                href="https://code.visualstudio.com/"
+                class="font-medium text-white hover:text-orange focus-visible:text-orange"
+                target="_blank"
+                rel="noreferrer noopener"
+                aria-label="Visual Studio Code (opens in a new tab)"
+              >
+                Visual Studio Code{" "}
+              </a>
+              by yours truly. Built with {" "}
+              <a
+                href="https://vitejs.dev/"
+                class="font-medium text-white hover:text-orange focus-visible:text-orange"
+                target="_blank"
+                rel="noreferrer noopener"
+                aria-label="Vite (opens in a new tab)"
+              >
+                Vite,{" "}
+              </a>
+              <a
+                href="https://react.dev/"
+                class="font-medium text-white hover:text-orange focus-visible:text-orange"
+                target="_blank"
+                rel="noreferrer noopener"
+                aria-label="React.js (opens in a new tab)"
+              >
+                React{" "}
+              </a>
+              and{" "}
+              <a
+                href="https://tailwindcss.com/"
+                class="font-medium text-white hover:text-orange focus-visible:text-orange"
+                target="_blank"
+                rel="noreferrer noopener"
+                aria-label="Tailwind CSS (opens in a new tab)"
+              >
+                Tailwind CSS
+              </a>
+              , deployed using{" "}
+              <a
+                href="https://netlify.com/"
+                class="font-medium text-white hover:text-orange focus-visible:text-orange"
+                target="_blank"
+                rel="noreferrer noopener"
+                aria-label="Netlify (opens in a new tab)"
+              >
+                Netlify
+              </a>
+              .
+            </p>
+          </footer>
         </main>
       </div>
     </div>

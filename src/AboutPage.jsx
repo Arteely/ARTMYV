@@ -470,7 +470,7 @@ function AboutMe() {
               </div>
             </div>
           </section>
-          <section className="flex flex-col items-center text-white">
+          <section className="flex flex-col lg:items-center items-start text-white">
             <p>Would you like to work together?</p>
             <h2 className="text-2xl font-bold">
               <span>[</span>
@@ -483,7 +483,7 @@ function AboutMe() {
               <span>]</span>
             </h2>
           </section>
-          <footer className="max-w-full flex justify-center py-8 text-sm text-text sm:pb-0 transition-all">
+          <footer className="max-w-full flex justify-center py-8 text-sm text-text sm:pb-0 md:text-center transition-all">
             <p className=" max-w-md">
               Designed in{" "}
               <a

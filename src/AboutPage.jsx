@@ -416,9 +416,7 @@ function AboutMe() {
                         all web-based platforms. Created and designed graphics
                         for upcoming events, social media updates, posters, and
                         mailings. Handled the entry and organization of customer
-                        data for future sales or mailing campaigns. Handled the
-                        processing and organization of customer data for future
-                        sales or mailing campaigns.
+                        data for future sales or mailing campaigns.
                       </p>
                       <ul
                         class="mt-2 flex flex-wrap"
@@ -446,8 +444,8 @@ function AboutMe() {
               </ol>
               <div class="mt-12">
                 <a
-                  class="inline-flex hidden items-baseline font-header font-medium leading-tight text-white hover:text-orange focus-visible:text-orange group/link text-base"
-                  href="/resume.pdf"
+                  class="inline-flex items-baseline font-header font-medium leading-tight text-white hover:text-orange focus-visible:text-orange group/link text-base"
+                  href="/ArtemArtemyev_Resume.pdf"
                   target="_blank"
                   rel="noreferrer noopener"
                   aria-label="View Full Résumé (opens in a new tab)"
